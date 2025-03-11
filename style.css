@@ -1,0 +1,14 @@
+html{
+  background-color: black;
+}
+.poster{
+  color:aliceblue;
+  width:50%;
+  margin-left: 25%;
+  margin-top: 100px;
+  text-align: center;
+}
+.posterr{
+  width:100%;
+  border: 10px solid aliceblue;
+}
